@@ -1,0 +1,12 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.cf{
+    max-width: 500px !important;
+    margin-top: 50px;
+    border: 1px solid blue;
+    padding: 30px;
+    border-radius: 7px;
+}
